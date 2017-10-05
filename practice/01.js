@@ -1,5 +1,6 @@
 /**
 * Основная документация - https://developer.mozilla.org/ru/docs/Learn/JavaScript
+* http://javascript.ru/manual
 */
 
 /**
